@@ -1,0 +1,79 @@
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.exe.config
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.exe
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.pdb
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\MainWindow.baml
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\MainWindow.g.cs
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\App.g.cs
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3_MarkupCompile.cache
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.g.resources
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis_V3.Properties.Resources.resources
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.csproj.GenerateResource.Cache
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.exe
+c:\users\zi05\documents\visual studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.pdb
+c:\Users\Zi05\Documents\Visual Studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\TappersWindow.baml
+c:\Users\Zi05\Documents\Visual Studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\TappersWindow.g.cs
+c:\Users\Zi05\Documents\Visual Studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\Stock.baml
+c:\Users\Zi05\Documents\Visual Studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\Stock.g.cs
+c:\Users\Zi05\Documents\Visual Studio 2013\Projects\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.csprojResolveAssemblyReference.cache
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.exe.config
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.exe
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.pdb
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.exe
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.pdb
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\App.g.cs
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3_MarkupCompile.cache
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.g.resources
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis_V3.Properties.Resources.resources
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.csproj.GenerateResource.Cache
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.exe.config
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.exe
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.pdb
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\MainWindow.baml
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Stock.baml
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\TappersWindow.baml
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\MainWindow.g.cs
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Stock.g.cs
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\TappersWindow.g.cs
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\App.g.cs
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3_Content.g.cs
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3_MarkupCompile.cache
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.g.resources
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis_V3.Properties.Resources.resources
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.csproj.GenerateResource.Cache
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.exe
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.pdb
+C:\Users\Zi05\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.csprojResolveAssemblyReference.cache
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.exe.config
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.exe
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.pdb
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\xml\TappersLijst.xml
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.exe
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.pdb
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\MainWindow.baml
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\TappersWindow.baml
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\MainWindow.g.cs
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\TappersWindow.g.cs
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\App.g.cs
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3_Content.g.cs
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3_MarkupCompile.cache
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.g.resources
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis_V3.Properties.Resources.resources
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.csproj.GenerateResource.Cache
+C:\Users\ZI05.VDABGENK\Google Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.csprojResolveAssemblyReference.cache
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.csprojResolveAssemblyReference.cache
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3_MarkupCompile.lref
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\MainWindow.baml
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\TappersWindow.baml
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\AdminWindow.g.cs
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\KassaWindow.g.cs
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\MainWindow.g.cs
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\StockWindow.g.cs
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\TappersWindow.g.cs
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\AdminWindow.baml
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\KassaWindow.baml
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\StockWindow.baml
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\BankWindow.g.cs
+D:\Drive\VisualStudioWorkspace\Juegdhuis V3\Juegdhuis V3\obj\Debug\BankWindow.baml
+D:\Drive\VisualStudioWorkspace\Jeugdhuis V3\Juegdhuis V3\bin\Debug\Juegdhuis V3.exe.config
+D:\Drive\VisualStudioWorkspace\Jeugdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.exe
+D:\Drive\VisualStudioWorkspace\Jeugdhuis V3\Juegdhuis V3\obj\Debug\Juegdhuis V3.pdb

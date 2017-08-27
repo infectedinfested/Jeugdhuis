@@ -1,0 +1,17 @@
+Cola:373:1
+Cola Zero:374:1
+Fanta:324:1
+Sprite:300:1
+Iced Tea:0:1
+Iced Tea Green:0:1
+Bruis Water:29:1
+Plat Water:0:1
+Rodeo:4:1
+Rodeo Exotic:44:1
+Bier:500:1,2
+Kriek:498:1,5
+La Chouffe:30:2,2
+Desperados:17:1,7
+BarBar:30:2,2
+Karmeliet:27:2,2
+end
